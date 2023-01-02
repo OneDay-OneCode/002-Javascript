@@ -1,2 +1,2 @@
 # 002-Javascript
-About Variables
+Can view with node or console in browser
